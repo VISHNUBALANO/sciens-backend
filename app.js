@@ -3,7 +3,7 @@
 // ─────────────────────────────
 // CONFIG
 // ─────────────────────────────
-const API_URL = "https://sciens-backend-1.onrender.com";
+const API_URL = "const API_URL = "https://sciens-backend-1.onrender.com";
 
 // ─────────────────────────────
 // STATE
